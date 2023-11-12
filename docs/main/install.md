@@ -2,7 +2,8 @@
 
 ## Part1: Letter Writting
 
-<pre><code class="shell">https://www.python.org/downloads/</code></pre>
+<pre><code class="shell">Informal --> Friend</code></pre>
+<pre><code class="shell">Formal --> All Others</code></pre>
 
 ## Check the Python version
 
