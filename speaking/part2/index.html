@@ -11,10 +11,10 @@
       
       
       
-        <link rel="prev" href="../../writting/part2/">
+        <link rel="prev" href="../part1/">
       
       
-        <link rel="next" href="../releasenotes/">
+        <link rel="next" href="../../listening/part1/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -22,7 +22,7 @@
     
     
       
-        <title>Versions - Sudheer Reddy G</title>
+        <title>How to deploy MKDOCS Project - Sudheer Reddy G</title>
       
     
     
@@ -77,7 +77,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#versions" class="md-skip">
+        <a href="#how-to-deploy-mkdocs-project" class="md-skip">
           Skip to content
         </a>
       
@@ -113,7 +113,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Versions
+              How to deploy MKDOCS Project
             
           </span>
         </div>
@@ -390,6 +390,26 @@
                 
   
   
+  
+    <li class="md-nav__item">
+      <a href="../part1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GENERAL IELTS WRITTING
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -405,7 +425,7 @@
           
   
   <span class="md-ellipsis">
-    Versions
+    How to deploy MKDOCS Project
   </span>
   
 
@@ -416,7 +436,7 @@
         
   
   <span class="md-ellipsis">
-    Versions
+    How to deploy MKDOCS Project
   </span>
   
 
@@ -438,8 +458,36 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#v100" class="md-nav__link">
-    v1.0.0
+  <a href="#how-to-create-new-mkdocs-project" class="md-nav__link">
+    How to create new mkdocs project
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-run-on-localhost" class="md-nav__link">
+    How to run on localhost
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-build-code" class="md-nav__link">
+    How to build code
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#push-code-into-github" class="md-nav__link">
+    Push code into github
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deploy-mkdocs-project-on-git-pages" class="md-nav__link">
+    Deploy MKDOCS Project on git pages
   </a>
   
 </li>
@@ -448,26 +496,6 @@
   
 </nav>
       
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../releasenotes/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Release Notes
-  </span>
-  
-
-      </a>
     </li>
   
 
@@ -692,8 +720,36 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#v100" class="md-nav__link">
-    v1.0.0
+  <a href="#how-to-create-new-mkdocs-project" class="md-nav__link">
+    How to create new mkdocs project
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-run-on-localhost" class="md-nav__link">
+    How to run on localhost
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-build-code" class="md-nav__link">
+    How to build code
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#push-code-into-github" class="md-nav__link">
+    Push code into github
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deploy-mkdocs-project-on-git-pages" class="md-nav__link">
+    Deploy MKDOCS Project on git pages
   </a>
   
 </li>
@@ -716,12 +772,114 @@
   
 
 
-<h1 id="versions">Versions</h1>
-<hr />
-<h2 id="v100">v1.0.0</h2>
+<h1 id="how-to-deploy-mkdocs-project">How to deploy MKDOCS Project</h1>
+<h2 id="how-to-create-new-mkdocs-project">How to create new mkdocs project</h2>
+<pre><code class="shell">C:\Users\sudhe>py -m mkdocs new sudheer</code></pre>
+<p>INFO    -  Creating project directory: sudheer</p>
+<p>INFO    -  Writing config file: sudheer\mkdocs.yml</p>
+<p>INFO    -  Writing initial docs: sudheer\docs\index.md</p>
+<h2 id="how-to-run-on-localhost">How to run on localhost</h2>
+<pre><code class="shell">C:\Users\sudhe>cd sudheer</code></pre>
+
+<pre><code class="shell">C:\Users\sudhe\sudheer>py -m mkdocs serve</code></pre>
+<p>INFO    -  Building documentation...</p>
+<p>INFO    -  Cleaning site directory</p>
+<p>INFO    -  Documentation built in 0.38 seconds</p>
+<p>INFO    -  [17:55:37] Watching paths for changes: 'docs', 'mkdocs.yml'</p>
+<p>INFO    -  [17:55:37] Serving on http://127.0.0.1:8000/</p>
+<p>INFO    -  [17:55:43] Browser connected: http://127.0.0.1:8000/</p>
+<p>INFO    -  Shutting down...</p>
+<h2 id="how-to-build-code">How to build code</h2>
+<pre><code class="shell">C:\Users\sudhe\sudheer>py -m mkdocs build</code></pre>
+<p>INFO    -  Cleaning site directory</p>
+<p>INFO    -  Building documentation to directory: C:\Users\sudhe\sudheer\site</p>
+<p>INFO    -  Documentation built in 0.09 seconds</p>
+<h2 id="push-code-into-github">Push code into github</h2>
+<pre><code class="shell">C:\Users\sudhe\sudheer>echo "# sudheer.github.io" >> README.md</code></pre>
+
+<pre><code class="shell">C:\Users\sudhe\sudheer>git init</code></pre>
+<p>Initialized empty Git repository in C:/Users/sudhe/sudheer/.git/</p>
+<pre><code class="shell">C:\Users\sudhe\sudheer>git add . -A</code></pre>
+<p>warning: in the working copy of 'site/404.html', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/css/base.css', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/css/font-awesome.min.css', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/fonts/fontawesome-webfont.svg', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/index.html', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/js/base.js', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/js/jquery-3.6.0.min.js', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/search/lunr.js', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/search/main.js', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/search/worker.js', LF will be replaced by CRLF the next time Git touches it</p>
+<p>warning: in the working copy of 'site/sitemap.xml', LF will be replaced by CRLF the next time Git touches it</p>
+<pre><code class="shell">C:\Users\sudhe\sudheer>git commit -m "first commit"</code></pre>
+<p>[master (root-commit) a94e6ef] first commit</p>
+<p>24 files changed, 7339 insertions(+)</p>
+<p>create mode 100644 README.md</p>
+<p>create mode 100644 docs/index.md</p>
+<p>create mode 100644 mkdocs.yml</p>
+<p>create mode 100644 site/404.html</p>
+<p>create mode 100644 site/css/base.css</p>
+<p>create mode 100644 site/css/bootstrap.min.css</p>
+<p>create mode 100644 site/css/font-awesome.min.css</p>
+<p>create mode 100644 site/fonts/fontawesome-webfont.eot</p>
+<p>create mode 100644 site/fonts/fontawesome-webfont.svg</p>
+<p>create mode 100644 site/fonts/fontawesome-webfont.ttf</p>
+<p>create mode 100644 site/fonts/fontawesome-webfont.woff</p>
+<p>create mode 100644 site/fonts/fontawesome-webfont.woff2</p>
+<p>create mode 100644 site/img/favicon.ico</p>
+<p>create mode 100644 site/img/grid.png</p>
+<p>create mode 100644 site/index.html</p>
+<p>create mode 100644 site/js/base.js</p>
+<p>create mode 100644 site/js/bootstrap.min.js</p>
+<p>create mode 100644 site/js/jquery-3.6.0.min.js</p>
+<p>create mode 100644 site/search/lunr.js</p>
+<p>create mode 100644 site/search/main.js</p>
+<p>create mode 100644 site/search/search_index.json</p>
+<p>create mode 100644 site/search/worker.js</p>
+<p>create mode 100644 site/sitemap.xml</p>
+<p>create mode 100644 site/sitemap.xml.gz</p>
+<pre><code class="shell">C:\Users\sudhe\sudheer>git branch -M sudheer</code></pre>
+
+<pre><code class="shell">C:\Users\sudhe\sudheer>git remote add origin https://github.com/SudheerKReddyG/sudheer.github.io.git</code></pre>
+
+<pre><code class="shell">C:\Users\sudhe\sudheer>git push -u origin sudheer</code></pre>
+<p>Enumerating objects: 33, done.</p>
+<p>Counting objects: 100% (33/33), done.</p>
+<p>Delta compression using up to 8 threads</p>
+<p>Compressing objects: 100% (30/30), done.</p>
+<p>Writing objects: 100% (33/33), 606.38 KiB | 3.99 MiB/s, done.</p>
+<p>Total 33 (delta 1), reused 0 (delta 0), pack-reused 0</p>
+<p>remote: Resolving deltas: 100% (1/1), done.</p>
+<p>To https://github.com/SudheerKReddyG/sudheer.github.io.git</p>
 <ul>
-<li><a href="https://sudheerkreddyg.github.io/sudheer.github.io/">📦 MKDOCS: Build 1.0.0</a> <code>2023-09-13</code></li>
+<li>[new branch]      sudheer -&gt; sudheer</li>
 </ul>
+<p>branch 'sudheer' set up to track 'origin/sudheer'.</p>
+<h2 id="deploy-mkdocs-project-on-git-pages">Deploy MKDOCS Project on git pages</h2>
+<pre><code class="shell">C:\Users\sudhe\sudheer>py -m mkdocs gh-deploy</code></pre>
+<p>INFO    -  Cleaning site directory</p>
+<p>INFO    -  Building documentation to directory: C:\Users\sudhe\sudheer\site</p>
+<p>INFO    -  Documentation built in 0.17 seconds</p>
+<p>WARNING -  Version check skipped: No version specified in previous deployment.</p>
+<p>INFO    -  Copying 'C:\Users\sudhe\sudheer\site' to 'gh-pages' branch and pushing to GitHub.</p>
+<p>Enumerating objects: 29, done.</p>
+<p>Counting objects: 100% (29/29), done.</p>
+<p>Delta compression using up to 8 threads</p>
+<p>Compressing objects: 100% (28/28), done.</p>
+<p>Writing objects: 100% (29/29), 605.92 KiB | 3.69 MiB/s, done.</p>
+<p>Total 29 (delta 1), reused 0 (delta 0), pack-reused 0</p>
+<p>remote: Resolving deltas: 100% (1/1), done.</p>
+<p>remote:</p>
+<p>remote: Create a pull request for 'gh-pages' on GitHub by visiting:</p>
+<p>remote:      https://github.com/SudheerKReddyG/sudheer.github.io/pull/new/gh-pages</p>
+<p>remote:</p>
+<p>To https://github.com/SudheerKReddyG/sudheer.github.io.git</p>
+<ul>
+<li>[new branch]      gh-pages -&gt; gh-pages</li>
+</ul>
+<p>INFO    -  Your documentation should shortly be available at: https://SudheerKReddyG.github.io/sudheer.github.io/</p>
 
 
 
