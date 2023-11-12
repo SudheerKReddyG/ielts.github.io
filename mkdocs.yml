@@ -38,12 +38,12 @@ extra:
 
 nav:
     - Home: index.md
-    - Getting Started: 
-      - main/install.md
-      - main/deploy.md
-    - Development:
-      - su/versions.md
-      - su/releasenotes.md
+    - IELTS Writting: 
+      - writting/part1.md
+      - writting/part2.md
+    - IELTS Speaking:
+      - speaking/versions.md
+      - speaking/releasenotes.md
     - About: about.md
 
 copyright: Copyright &copy; 2023 Sudheer Reddy G
