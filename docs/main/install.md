@@ -5,9 +5,16 @@
 <pre><code class="shell">Informal --> Friend</code></pre>
 <pre><code class="shell">Formal --> All Others</code></pre>
 
-## Check the Python version
+## Informal Letter
 
-<pre><code class="shell">py --version</code></pre>
+<pre><code class="shell">Dear (first name of the friend)</code></pre>
+<pre><code class="shell">Paragraph1# Say why you are writting to them(I'm just writting to let you know that)</code></pre>
+<pre><code class="shell">Paragraph2# Bullet point1 and supporting details</code></pre>
+<pre><code class="shell">Paragraph3# Bullet point2 and supporting details</code></pre>
+<pre><code class="shell">Paragraph4# Bullet point3 and supporting details</code></pre>
+<pre><code class="shell">Looking forward to hearing from you soon.</code></pre>
+<pre><code class="shell">All the best,</code></pre>
+<pre><code class="shell">Sudheer Reddy G</code></pre>
 
 ## Install Python plugin visual studio code
 
