@@ -1,6 +1,6 @@
-# How to Install Python and Setup MKDOCS
+# GENERAL IELTS WRITTING
 
-## Install Python
+## Part1: Letter Writting
 
 <pre><code class="shell">https://www.python.org/downloads/</code></pre>
 
