@@ -16,32 +16,22 @@
 <pre><code class="shell">All the best,</code></pre>
 <pre><code class="shell">Sudheer Reddy G</code></pre>
 
-## Install Python plugin visual studio code
+## Starting Purpose
 
-<pre><code class="shell">python -> Install</code></pre>
+<pre><code class="shell">I'm just writting to let you know that</code></pre>
 
-## Install Plugins for MKDOCS
+## Apologising 
 
-<pre><code class="shell">python -m pip install mkdocs --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --user</code></pre>
+<pre><code class="shell">I'm very sorry about</code></pre>
 
-<pre><code class="shell">python -m pip install --upgrade pip --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --user</code></pre>
+## Asking for help 
 
-<pre><code class="shell">python -m pip install mkdocs-material --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --user</code></pre>
+<pre><code class="shell">I was wondering if you would do me a favour</code></pre>
 
-<pre><code class="shell">python -m pip install mkdocs-git-version-date-localized-plugin --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --user</code></pre>
+## Expressing Satisfaction 
 
-## Create new MKDOCS Project
+<pre><code class="shell">I was thrilled to find out that/about</code></pre>
 
-<pre><code class="shell">py -m mkdocs new <Project Name></code></pre>
+## Ending 
 
-## Start the app on localhost
-
-<pre><code class="shell">py -m mkdocs serve</code></pre>
-
-## Build the code
-
-<pre><code class="shell">py -m mkdocs build</code></pre>
-
-## Deploy code on Pages
-
-<pre><code class="shell">py -m mkdocs gh-deploy</code></pre>
+<pre><code class="shell">All the best/Keep in touch</code></pre>
