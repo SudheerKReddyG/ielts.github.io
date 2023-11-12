@@ -44,6 +44,12 @@ nav:
     - IELTS Speaking:
       - speaking/versions.md
       - speaking/releasenotes.md
+    - IELTS Listening: 
+      - listening/part1.md
+      - listening/part2.md
+    - IELTS Reading: 
+      - reading/part1.md
+      - reading/part2.md
     - About: about.md
 
 copyright: Copyright &copy; 2023 Sudheer Reddy G
