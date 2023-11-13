@@ -32,6 +32,10 @@
 
 <pre><code class="shell">I was thrilled to find out that/about</code></pre>
 
+## Giving bad news
+
+<pre><code class="shell">I’m afraid I’ve a bit of bad news for you.</code></pre>
+
 ## Ending 
 
 <pre><code class="shell">All the best/Keep in touch</code></pre>
