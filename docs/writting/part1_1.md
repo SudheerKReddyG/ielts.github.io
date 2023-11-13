@@ -22,4 +22,5 @@ I’m now teaching English as a foreign language in Vietnam and it suits me down
 I also have some other amazing news- I’m getting married. She was one of my first ever students and I guess it was love at first sight for both of us. Make sure you keep the first weekend in July free, so you can come and celebrate with us.
 
 Keep in touch
+
 Sudheer Reddy G
