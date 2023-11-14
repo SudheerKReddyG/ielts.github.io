@@ -1,26 +1,34 @@
-# Band 9 Sample Formal Letter
-On a recent holiday you lost a valuable item. Fortunately, you have travel insurance to cover the cost of anything lost.
+# GENERAL IELTS WRITTING: Formal Letter
 
-Write a letter to the manager of your insurance company. In your letter
+## Formal Letter
 
-describe the item you lost
-explain how you lost it
-tell the insurance company what you would like them to do
+<pre><code class="shell">Dear Sir/Madam </code></pre>
+<pre><code class="shell">Paragraph 1- Say why you are writing to them. (I am writing with regard to…) </code></pre>
+<pre><code class="shell">Paragraph2# Bullet point1 and supporting details</code></pre>
+<pre><code class="shell">Paragraph3# Bullet point2 and supporting details</code></pre>
+<pre><code class="shell">Paragraph4# Bullet point3 and supporting details</code></pre>
+<pre><code class="shell">I look forward to hearing from you.</code></pre>
+<pre><code class="shell">Yours faithfully</code></pre>
+<pre><code class="shell">[Your Full Name]</code></pre>
 
-## Letter
+## Useful Language
 
-Dear Sir/Madam
+Below is a selection of useful language for you to use in a formal letter. The phrases you choose will depend on the context of the question.
 
-I am writing to inform you that I recently lost my digital camera while on holiday in Vietnam.
-
-The camera is a black Canon 70d and cost $1550 when I bought it new last month. It has a resolution of 20 megapixels, a Canon 67 millimeter lens and was in a brown leather case with my name on it.
-
-I lost it when I was having coffee with my husband in the backpacker area of Ho Chi Minh City. I believe the coffee shop was called Highlands Coffee and it was on Pham Ngu Lao Street. We had been at the coffee shop for around 45 minutes when I noticed it was missing.
-
-I am entitled to make a claim for the value of the above mentioned item and request that you send me details on what I need to do in order to proceed.
-
-I look forward to hearing from you at your earliest convenience.
-
-Yours faithfully
-
-Sudheer Kumar Reddy Gaddam
+## Beginning
+I am writing this letter with regard to…
+I am writing to bring to your attention…
+I am writing to inform you that…
+I am writing to express my dissatisfaction with…..
+## Requests and Suggestions
+I would be grateful if you would…
+I would like you to…
+I am entitled to request that you….
+I was wondering if it would be at all possible to….
+I would like to suggest that….
+## Ending
+I look forward to hearing from you.
+I look forward to receiving your response.
+I await your prompt service.
+I thank you for your consideration.
+Please respond at the earliest convenience.

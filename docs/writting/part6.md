@@ -1,24 +1,26 @@
-# IELTS Letter Writing Checklist
-Here are some questions you should ask yourself when answering any General Training task 1 question.
+# Band 9 Sample Formal Letter
+On a recent holiday you lost a valuable item. Fortunately, you have travel insurance to cover the cost of anything lost.
 
-Have I read and understood the instructions?
+Write a letter to the manager of your insurance company. In your letter
 
-Is it a formal or informal letter?
+describe the item you lost
+explain how you lost it
+tell the insurance company what you would like them to do
 
-Have I made a plan?
+## Letter
 
-Have I included both the reason for writing and the 3 bullet points?
+Dear Sir/Madam
 
-Have I supported each bullet point with relevant details?
+I am writing to inform you that I recently lost my digital camera while on holiday in Vietnam.
 
-Have I used appropriate language?
+The camera is a black Canon 70d and cost $1550 when I bought it new last month. It has a resolution of 20 megapixels, a Canon 67 millimeter lens and was in a brown leather case with my name on it.
 
-Have I separated my letter into paragraphs?
+I lost it when I was having coffee with my husband in the backpacker area of Ho Chi Minh City. I believe the coffee shop was called Highlands Coffee and it was on Pham Ngu Lao Street. We had been at the coffee shop for around 45 minutes when I noticed it was missing.
 
-Are my ideas clear and easy to understand?
+I am entitled to make a claim for the value of the above mentioned item and request that you send me details on what I need to do in order to proceed.
 
-Have I avoided copying the question and varied my vocabulary?
+I look forward to hearing from you at your earliest convenience.
 
-Have I checked my letter for grammar and spelling mistakes?
+Yours faithfully
 
-If you can answer all of these questions you are well on your way to writing a good formal letter.
+Sudheer Kumar Reddy Gaddam

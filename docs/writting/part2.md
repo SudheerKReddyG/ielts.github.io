@@ -1,23 +1,26 @@
-# Begin and End Your Letter Correctly
+# Band 9 Sample Informal Letter
 
-There are a number of different ways you can start and finish your letter, but here are the ways I advise my students:
+## Question#
+You have recently started work in a new company.
 
-## Formal and you don’t know the name:
+Write a letter to an English-speaking friend. In your letter
 
-<pre><code class="shell">Dear Sir/Madam</code></pre>
-<pre><code class="shell">Yours faithfully</code></pre>
+explain why you changed jobs
+describe your new job
+tell him/her your other news
 
-## Formal and you do know the name:
+## Letter
 
-<pre><code class="shell">Dear [Mr(s).  Family Name]</code></pre>
-<pre><code class="shell">Yours sincerely</code></pre>
+Dear Tom
 
-## Semi-Formal:
+I’m just writing to let you know I quit my old job and found something new.
 
-<pre><code class="shell">Dear [First Name]</code></pre>
-<pre><code class="shell">Kind regards</code></pre>
+I was really fed up with being a brain surgeon because it wasn’t really much of a challenge anymore. You know me; if I’m not learning new tricks, I get bored too easily and have to find something new.
 
-## Informal:
+I’m now teaching English as a foreign language in Vietnam and it suits me down to the ground. I teach two adult classes and a kindergarten class, which is not only challenging but also rewarding too. Can you believe it?
 
-<pre><code class="shell">Dear [First Name]</code></pre>
-<pre><code class="shell">Best wishes</code></pre>
+I also have some other amazing news- I’m getting married. She was one of my first ever students and I guess it was love at first sight for both of us. Make sure you keep the first weekend in July free, so you can come and celebrate with us.
+
+Keep in touch
+
+Sudheer Reddy G

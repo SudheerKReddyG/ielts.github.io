@@ -1,34 +1,19 @@
-# GENERAL IELTS WRITTING: Formal Letter
+# How to write Paragraph1
 
-## Formal Letter
+## Question#
 
-<pre><code class="shell">Dear Sir/Madam </code></pre>
-<pre><code class="shell">Paragraph 1- Say why you are writing to them. (I am writing with regard to…) </code></pre>
-<pre><code class="shell">Paragraph2# Bullet point1 and supporting details</code></pre>
-<pre><code class="shell">Paragraph3# Bullet point2 and supporting details</code></pre>
-<pre><code class="shell">Paragraph4# Bullet point3 and supporting details</code></pre>
-<pre><code class="shell">I look forward to hearing from you.</code></pre>
-<pre><code class="shell">Yours faithfully</code></pre>
-<pre><code class="shell">[Your Full Name]</code></pre>
+You have seen a job advertisement online for someone to live with a family in canada for 6 months and looks after their six-yearold child.
 
-## Useful Language
+Write a letter to the parents, in your letter
 
-Below is a selection of useful language for you to use in a formal letter. The phrases you choose will depend on the context of the question.
+->Explain why you would like the job.
 
-## Beginning
-I am writing this letter with regard to…
-I am writing to bring to your attention…
-I am writing to inform you that…
-I am writing to express my dissatisfaction with…..
-## Requests and Suggestions
-I would be grateful if you would…
-I would like you to…
-I am entitled to request that you….
-I was wondering if it would be at all possible to….
-I would like to suggest that….
-## Ending
-I look forward to hearing from you.
-I look forward to receiving your response.
-I await your prompt service.
-I thank you for your consideration.
-Please respond at the earliest convenience.
+->Give details of why you are suitable for the job.
+
+->Say how you would spend your free time while you are in Canada.
+
+## Wrong
+I am writing to inform you that i have seen your job advertisement and i would like to live in canada for 6 months and take care of yur young child.
+
+## Right
+I am writting in response to the advertisemnt you placed online and would like to be considered for the nanny job
