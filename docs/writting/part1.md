@@ -1,4 +1,4 @@
-# GENERAL IELTS WRITTING: Informal Letter
+# GENERAL IELTS WRITTING: Part1(Formal/Informal Letter)
 
 ## Part1: Letter Writting
 
