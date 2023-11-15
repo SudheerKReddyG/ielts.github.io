@@ -17,18 +17,32 @@ Below is a selection of useful language for you to use in a formal letter. The p
 
 ## Beginning
 I am writing this letter with regard to…
+
 I am writing to bring to your attention…
+
 I am writing to inform you that…
+
 I am writing to express my dissatisfaction with…..
+
 ## Requests and Suggestions
 I would be grateful if you would…
+
 I would like you to…
+
 I am entitled to request that you….
+
 I was wondering if it would be at all possible to….
+
 I would like to suggest that….
+
 ## Ending
+
 I look forward to hearing from you.
+
 I look forward to receiving your response.
+
 I await your prompt service.
+
 I thank you for your consideration.
+
 Please respond at the earliest convenience.

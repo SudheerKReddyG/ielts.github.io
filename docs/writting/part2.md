@@ -6,7 +6,9 @@ You have recently started work in a new company.
 Write a letter to an English-speaking friend. In your letter
 
 explain why you changed jobs
+
 describe your new job
+
 tell him/her your other news
 
 ## Letter
