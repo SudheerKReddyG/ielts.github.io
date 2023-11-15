@@ -91,8 +91,8 @@ Need to Do
 3. State main ideas
 
 States should allocate more funds to railway lines instead of building new highways. 
-This essay agrees with this statement because trains are environmentally friendly and benifit a greater number of people.
 
+This essay agrees with this statement because trains are environmentally friendly and benifit a greater number of people.
 
 ## Main Body Paragraphs
 
@@ -101,6 +101,7 @@ This essay agrees with this statement because trains are environmentally friendl
 3. Examples (Supporting Evidence)
 
 MBP1 -> Environmentally Friendly
+
 MBP2 -> Benifit greater number of people.
 
 ## Conclusions
@@ -109,6 +110,7 @@ MBP2 -> Benifit greater number of people.
 2. NO general Statements
 
 -> Clearly state your position.
+
 -> Summarise your main ideas.
 
 ## Check
